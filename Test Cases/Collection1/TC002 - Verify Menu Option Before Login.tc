@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002 - Verify Menu Option Before Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03f3601d-6919-4b77-b899-52491d0c7ccb</testCaseGuid>
+</TestCaseEntity>
