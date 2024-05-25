@@ -21,12 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Home'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Login'))
-
 WebUI.takeScreenshotAsCheckpoint('current_viewport1')
 
 WebUI.takeScreenshotAsCheckpoint('current_viewport2')
