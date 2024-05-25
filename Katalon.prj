@@ -6,11 +6,12 @@
    <UUID>6002bf05-6c66-498a-8364-1b5a96d7f1ac</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.4.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.4.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>E:\Automation_Testing\katalon\Katalon-Cert\Katalon.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
